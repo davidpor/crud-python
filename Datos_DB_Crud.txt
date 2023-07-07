@@ -1,0 +1,30 @@
+[
+  {
+    "estadia": 10,
+    "id": 1,
+    "imagen": "https://images.unsplash.com/photo-1580223530509-849e0ad583ca?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FyaWJlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "nombre": "Caribe",
+    "precio": 1500
+  },
+  {
+    "estadia": 5,
+    "id": 2,
+    "imagen": "https://cdn0.geoenciclopedia.com/es/posts/6/5/1/aconcagua_156_600.webp",
+    "nombre": "Aconcagua",
+    "precio": 1000
+  },
+  {
+    "estadia": 7,
+    "id": 3,
+    "imagen": "https://media.staticontent.com/media/pictures/e63f71e3-03fb-4c1b-a1e6-c8b1586a7e73",
+    "nombre": "Rio de Janeiro",
+    "precio": 800
+  },
+  {
+    "estadia": 14,
+    "id": 4,
+    "imagen": "https://media.staticontent.com/media/pictures/60d1c917-6fac-4450-87bd-aaae621e3b9f/360x360",
+    "nombre": "Bariloche",
+    "precio": 500
+  }
+]
